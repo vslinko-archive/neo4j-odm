@@ -1,0 +1,7 @@
+{
+  "name": "neo4j-odm",
+  "version": "0.1.0",
+  "devDependencies": {
+    "neo4j": "^2.0.0-RC2"
+  }
+}
